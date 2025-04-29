@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "name": "maze_solver-master",
+  "version": "1.0.0",
+  "description": "![Release](https://img.shields.io/badge/Release-v4.0-blueviolet) ![Language](https://img.shields.io/badge/Language-JavaScript-ffcc14) ![Size](https://img.shields.io/badge/Size-346Ko-f12222) ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
