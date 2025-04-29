@@ -5,13 +5,6 @@
 ![Size](https://img.shields.io/badge/Size-346Ko-f12222)
 ![Open Source](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)
 
-<br/>
-
-This repository contains the source code of a web page that can generate and solve mazes using several algorithms. You can also move the start and the finish or draw your own walls.
-
-The web page is online at the address : **[angeluriot.com/maze_solver](https://angeluriot.com/maze_solver/)**.
-
-<br/>
 
 <p align="center">
 	<img src="https://i.imgur.com/iSW6t5e.png" width="700">
@@ -157,7 +150,3 @@ The web page is online at the address : **[angeluriot.com/maze_solver](https://a
 </p>
 
 <br/>
-
-# 🙏 Credits
-
-* [**Angel Uriot**](https://github.com/angeluriot) : Creator of the project.
